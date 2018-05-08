@@ -1,9 +1,9 @@
 {
-    "name": "Apple",
-    "version": "1",
-    "description": "test",
+    "name": "[NAME]",
+    "version": "[VERSION]",
+    "description": "[DESCRIPTION]",
     "skpm": {
-      "main": "Apple.sketchplugin",
+      "main": "[NAME].sketchplugin",
       "manifest": "src/manifest.json"
     },
     "scripts": {
@@ -13,8 +13,8 @@
       "render:once": "skpm-build --run",
       "postinstall": "npm run build && skpm-link"
     },
-    "author": "me",
-    "license": "mit",
+    "author": "[AUTHOR]",
+    "license": "[LICENSE]",
     "devDependencies": {
       "@skpm/builder": "^0.4.0"
     },
