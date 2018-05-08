@@ -1,0 +1,16 @@
+{
+  "name": "create-react-sketch",
+  "version": "1.0.0",
+  "author": "William Huizenga <will.huizenga@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "scaffold": "index.js"
+  },
+  "dependencies": {
+    "caporal": "^0.3.0",
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "shelljs": "^0.7.7"
+  }
+}
