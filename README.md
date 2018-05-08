@@ -9,12 +9,15 @@ create-react-sketch is a CLI tool to quickly spin up new react components for us
 Naviate to the folder where you want to contain all of your components for your Sketch library.
 Once there you simply need to run
 > create-react-sketch name
+
 and a folder will be created with the new react-sketchapp component ready to be filled out.
 
 ### After installation
 ---
 > cd name && npm install
+
 This will install all the dependencies to make your new react-sketchapp component work!  After dependencies are installed you can use the component in sketch by running
+
 > npm run render
 
 ##### Enjoy!
