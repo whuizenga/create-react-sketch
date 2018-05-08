@@ -3,7 +3,7 @@
     "bundleVersion": 1,
     "commands": [
       {
-        "name": "radio-buttons",
+        "name": "create-react-sketch",
         "identifier": "main",
         "script": "./main.js"
       }
