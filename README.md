@@ -8,13 +8,17 @@ create-react-sketch is a CLI tool to quickly spin up new react components for us
 ---
 Navigate to the folder where you want to contain all of your components for your Sketch library.
 Once there you simply need to run
-> create-react-sketch name
+```bash
+create-react-sketch name
+```
 
 and a folder will be created with the new react-sketchapp component ready to be filled out.
 
 ### After installation
 ---
-> cd name && npm run render
+```bash
+cd name && npm run render
+```
 
 Once you start up Sketch, and import your new create-react-sketch plugin you will be ready to start designing!
 
