@@ -14,10 +14,10 @@ and a folder will be created with the new react-sketchapp component ready to be 
 
 ### After installation
 ---
-> cd name && npm install
+> cd name && npm run render
 
-This will install all the dependencies to make your new react-sketchapp component work!  After dependencies are installed you can use the component in sketch by running
+Once you start up Sketch, and import your new create-react-sketch plugin you will be ready to start designing!
 
-> npm run render
+![A new react-sketchapp component loaded in Sketch](https://i.imgur.com/NO2slEE.png)
 
 ##### Enjoy!
